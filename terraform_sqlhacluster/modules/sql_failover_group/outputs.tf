@@ -1,0 +1,6 @@
+// ...existing code...
+output "failover_group_id" {
+  description = "ID del grupo de conmutación por error SQL"
+  value       = azurerm_sql_failover_group.this.id
+}
+// ...existing code...

@@ -1,0 +1,7 @@
+resource_group_name = "RG-SANDBOX-D"
+location            = "East US 2"
+nic_name            = "test-bd-ha"
+vm_name             = "testVm"
+vm_size             = "Standard_DS1_v2"
+admin_username      = "admin"
+admin_password      = "admin"
