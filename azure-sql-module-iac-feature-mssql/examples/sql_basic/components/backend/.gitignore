@@ -1,0 +1,4 @@
+!providers.tf
+!terraform.lock.hcl
+!inputs.auto.tfvars
+.DS_Store*
