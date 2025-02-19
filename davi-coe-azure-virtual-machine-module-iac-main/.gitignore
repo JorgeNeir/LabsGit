@@ -1,0 +1,12 @@
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+*providers.tf
+tests/vendor
+.vscode
+.terraform.lock.hcl
+.terraform
+.DS_Store*
